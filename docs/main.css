@@ -1,0 +1,32 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	width: 100vw;
+	height: 100vh;
+	background: gray;
+	display: inline-block;
+	text-align: center;
+}
+
+a {
+	color: lightblue;
+}
+
+a:hover {
+	background: blue;
+}
+
+a:active {
+	background: darkblue;
+}
+
+button {
+	color: red;
+}
+
+button:hover {
+	background: redorange;
+}
+
+button:active {
+	background: orange;
+}
